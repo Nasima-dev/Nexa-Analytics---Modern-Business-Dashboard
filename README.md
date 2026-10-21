@@ -4,18 +4,18 @@ A premium, responsive business analytics dashboard built to showcase modern SaaS
 
 🔗 **Live Demo:** [View Nexa Analytics](https://modern-business-dashboard.netlify.app/)
 
+
 ## 📊 Screenshots
 
-### Dashboard Overview
-![Nexa Analytics Dashboard](images/dashboard.png)
+### Home Page
+![Home Page](./home-page.png)
+
+### Reviews
+![Reviews](./review.png)
 
 ### Analytics
-![Analytics Charts](images/analytics.png)
+![Analytics](./Modern%20Business%20Dashboard/analytics.png)
 
-### Sales Dashboard
-![Sales Dashboard](images/sales.png)
-
-> **Note:** Replace the example screenshot filenames above with your actual image filenames if they differ.
 
 ## ✨ Features
 
